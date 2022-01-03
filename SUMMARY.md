@@ -4,28 +4,28 @@
 
 ## 👩🏫 Introduction of Programming
 
-* [การทำงานของคอมพิวเตอร์เบื้องต้น](introduction-of-programming/undefined.md)
-* [การแปลภาษาของโปรแกรม](introduction-of-programming/undefined-1.md)
-* [Flowchart](introduction-of-programming/flowchart.md)
-* [Preprocesser Directory](introduction-of-programming/preprocesser-directory.md)
-* [Data type](introduction-of-programming/data-type.md)
-* [Condition & Loop Statement](introduction-of-programming/condition-and-loop-statement.md)
+* [การทำงานของคอมพิวเตอร์เบื้องต้น](introduction-of-programming/01-intro-basic-of-computer-working.md)
+* [การแปลภาษาของโปรแกรม](introduction-of-programming/02-intro-computer-translate.md)
+* [Flowchart](introduction-of-programming/03-intro-flowchart.md)
+* [Preprocesser Directory](introduction-of-programming/04-intro-preprocesser-directory.md)
+* [Data type](introduction-of-programming/05-intro-data-type.md)
+* [Condition & Loop Statement](introduction-of-programming/06-intro-condition-and-loop-statement.md)
 
 ## 🐍 Python for Beginner
 
-* [แนะนำภาษา python](python-for-beginner/python.md)
-* [ติดตั้งโปรแกรม python ลงบน computer](python-for-beginner/python-computer.md)
-* [การพิมพ์คำสั่งขั้นต้น](python-for-beginner/undefined.md)
-* [Data type และการประกาศตัวแปร](python-for-beginner/data-type.md)
-* [Comparison](python-for-beginner/comparison.md)
-* [Condition Statement](python-for-beginner/condition-statement.md)
-* [Loop Statement](python-for-beginner/loop-statement.md)
-* [การใช้ break, continue และ pass ใน statement](python-for-beginner/break-continue-pass-statement.md)
-* [Function](python-for-beginner/function.md)
-* [Data structure](python-for-beginner/data-structure.md)
-* [การทำงานร่วมกันกับไฟล์](python-for-beginner/undefined-1.md)
-* [Exception handling](python-for-beginner/exception-handling.md)
-* [Document และแหล่งเรียนรู้อื่นๆ](python-for-beginner/document.md)
+* [แนะนำภาษา python](python-for-beginner/01-introduce-python.md)
+* [ติดตั้งโปรแกรม python ลงบน computer](python-for-beginner/02-python-dowmload.md)
+* [การพิมพ์คำสั่งขั้นต้น](python-for-beginner/03-python-print.md)
+* [Data type และการประกาศตัวแปร](python-for-beginner/04-python-data-type.md)
+* [Comparison](python-for-beginner/05-python-comparison.md)
+* [Condition Statement](python-for-beginner/06-python-condition-statement.md)
+* [Loop Statement](python-for-beginner/07-python-loop-statement.md)
+* [การใช้ break, continue และ pass ใน statement](python-for-beginner/08-python-break-continue-pass-statement.md)
+* [Function](python-for-beginner/09-python-function.md)
+* [Data structure](python-for-beginner/10-python-data-structure.md)
+* [การทำงานร่วมกันกับไฟล์](python-for-beginner/11-python-working-with-filemd)
+* [Exception handling](python-for-beginner/12-python-exception-handling.md)
+* [Document และแหล่งเรียนรู้อื่นๆ](python-for-beginner/13-python-document.md)
 
 ***
 
