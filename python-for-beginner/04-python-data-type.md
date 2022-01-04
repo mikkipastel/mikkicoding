@@ -118,12 +118,12 @@ fav_stock = ["ADVANC", "BEM", "CPALL", "CPF", "AU"]
 
 <summary><strong>คำเฉลย</strong></summary>
 
-```python
+<!-- ```python
 fav_stock.append("BAY")
 fav_stock.remove("AU")
 fav_stock[0] = "INTOUCH"
 len(fav_stock)
-```
+``` -->
 
 </details>
 
