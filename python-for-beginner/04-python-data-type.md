@@ -112,18 +112,32 @@ fav_stock = ["ADVANC", "BEM", "CPALL", "CPF", "AU"]
 1. เพิ่ม "BAY"
 2. ลบ "AU"
 3. เปลี่ยน "ADVANC" เป็น "INTOUCH"
-4. หาจำนวนชื่อหุ้นใน fav_stock
+4. หาจำนวนชื่อหุ้นใน `fav_stock`
+
+<!-- <details>
+
+<summary><strong>คำเฉลย</strong></summary>
+
+```python
+fav_stock.append("BAY")
+fav_stock.remove("AU")
+fav_stock[0] = "INTOUCH"
+len(fav_stock)
+```
+
+</details> -->
 
 <details>
 
 <summary><strong>คำเฉลย</strong></summary>
 
-<!-- ```python
-fav_stock.append("BAY")
-fav_stock.remove("AU")
-fav_stock[0] = "INTOUCH"
-len(fav_stock)
-``` -->
+```python
+hello = "Hello, it's me. I was wondering if after all these years"
+len(hello)
+hello.find("me")
+hello.split(" ")
+hello.replace("me","you")
+```
 
 </details>
 
