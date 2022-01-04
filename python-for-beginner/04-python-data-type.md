@@ -114,7 +114,7 @@ fav_stock = ["ADVANC", "BEM", "CPALL", "CPF", "AU"]
 3. เปลี่ยน "ADVANC" เป็น "INTOUCH"
 4. หาจำนวนชื่อหุ้นใน `fav_stock`
 
-<details>
+<!-- <details> -->
 
 <summary><strong>คำเฉลย</strong></summary>
 
@@ -125,7 +125,7 @@ fav_stock[0] = "INTOUCH"
 len(fav_stock)
 ```
 
-</details>
+<!-- </details> -->
 
 ### Boolean
 
