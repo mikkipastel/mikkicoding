@@ -103,7 +103,7 @@ member = [“brown”, 94, True]
 * ถ้าล้างไส้ในทั้งหมด ใช้ `list.clear()`
 * การตรวจสอบความยาวของ list ใช้คำสั่ง `len(list)`
 
-**ตัวอย่างการใช้งาน**
+#### ช่วงลองทำดู
 
 ```python
 fav_stock = ["ADVANC", "BEM", "CPALL", "CPF", "AU"]
@@ -114,7 +114,7 @@ fav_stock = ["ADVANC", "BEM", "CPALL", "CPF", "AU"]
 3. เปลี่ยน "ADVANC" เป็น "INTOUCH"
 4. หาจำนวนชื่อหุ้นใน `fav_stock`
 
-<!-- <details>
+<details>
 
 <summary><strong>คำเฉลย</strong></summary>
 
@@ -123,20 +123,6 @@ fav_stock.append("BAY")
 fav_stock.remove("AU")
 fav_stock[0] = "INTOUCH"
 len(fav_stock)
-```
-
-</details> -->
-
-<details>
-
-<summary><strong>คำเฉลย</strong></summary>
-
-```python
-hello = "Hello, it's me. I was wondering if after all these years"
-len(hello)
-hello.find("me")
-hello.split(" ")
-hello.replace("me","you")
 ```
 
 </details>
