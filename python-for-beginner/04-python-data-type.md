@@ -103,7 +103,7 @@ member = [“brown”, 94, True]
 * ถ้าล้างไส้ในทั้งหมด ใช้ `list.clear()`
 * การตรวจสอบความยาวของ list ใช้คำสั่ง `len(list)`
 
-#### ช่วงลองทำดู
+**ตัวอย่างการใช้งาน**
 
 ```python
 fav_stock = ["ADVANC", "BEM", "CPALL", "CPF", "AU"]
@@ -112,9 +112,9 @@ fav_stock = ["ADVANC", "BEM", "CPALL", "CPF", "AU"]
 1. เพิ่ม "BAY"
 2. ลบ "AU"
 3. เปลี่ยน "ADVANC" เป็น "INTOUCH"
-4. หาจำนวนชื่อหุ้นใน `fav_stock`
+4. หาจำนวนชื่อหุ้นใน fav\_stock
 
-<!-- <details> -->
+<details>
 
 <summary><strong>คำเฉลย</strong></summary>
 
@@ -125,9 +125,10 @@ fav_stock[0] = "INTOUCH"
 len(fav_stock)
 ```
 
-<!-- </details> -->
+</details>
 
 ### Boolean
 
-อันนี้เหมือนภาษาอื่นๆ มีค่าสองแบบเท่านั้น คือ `True` กับ `False`
+อันนี้เหมือนภาษาอื่นๆ มีค่าสองแบบเท่านั้น คือ `True` กับ `False`\
+\
 สรุป python ไม่ต้องประกาศตัวแปรให้วุ่นวาย เช่น `uint8 i = 0;` งี้ แค่ใส่ค่าไปเลย เช่น `i = 0` จบ
