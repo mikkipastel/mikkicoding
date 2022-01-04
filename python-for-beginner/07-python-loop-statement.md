@@ -4,7 +4,7 @@
 
 มาลองทำดูดีกว่า พิมพ์ค่าสมาชิกแต่ละตัวใน `array_list`ซึ่งในภาษา python จะต่างจากภาษาอื่นๆ สามารถวนลูปค่าใน list ได้เลย ภาษาอื่นๆจะวนจากตัวเลข เช่น
 
-```
+```python
 array_list = [‘apple’, ‘papaya’, ’banana’, ’orange’]
 for i in array_list:
    print (i)
@@ -12,7 +12,7 @@ for i in array_list:
 
 ให้พิมพ์เลข 1-10 ออกมาสู่หน้าจอ สามารถเขียนได้ดังนี้
 
-```
+```python
 #print 1-10
 i=1
 while i <= 10:
@@ -22,7 +22,7 @@ while i <= 10:
 
 function range เป็น function ที่สร้าง range ค่าในช่วงที่เราต้องการ เช่น `range(10)` สร้างค่าเริ่มจาก 0 ไป 10 ตัว ดังนั้นจะได้ค่า 0-9 เราไม่สามารถเขียนเป็นเลขโดดๆใน for ได้
 
-```
+```python
 #print 1-10
 for i in range(1,11):
    print (i)
@@ -34,7 +34,7 @@ for i in range(1,11):
 
 ถ้าเราจะเขียนแบบเต็มๆ จะได้แบบนี้ ข้อดี คือ สามารถตรวจสอบได้เวลาที่โค้ดเรามีปัญหา
 
-```
+```python
 evens = []
 for i in range(31):
    if i % 2 == 0:
@@ -43,6 +43,6 @@ for i in range(31):
 
 และการเขียนแบบลดรูปแบบ loop comprehensions
 
-```
+```python
 evens = [i for i in range(31) if i % 2 == 0]
 ```

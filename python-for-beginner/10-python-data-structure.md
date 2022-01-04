@@ -4,7 +4,7 @@
 
 เราสามารถเก็บข้อมูล data type ใดก็ได้ ในตัวแปร tuple
 
-```
+```python
 t = 12345, 54321, 'hello!'
 ```
 
@@ -25,7 +25,7 @@ t = 12345, 54321, 'hello!'
 
 การแสดงผลค่า key และ value ของสมาชิกแต่ละตัวใน dict
 
-```
+```python
 for key, val in num.items():
  print (key, val)
 ```

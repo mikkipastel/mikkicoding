@@ -2,14 +2,13 @@
 
 * [Welcome!](README.md)
 
-## 👩🏫 Introduction of Programming
+## 👩‍💻 Introduction of Programming
 
 * [การทำงานของคอมพิวเตอร์เบื้องต้น](introduction-of-programming/01-intro-basic-of-computer-working.md)
 * [การแปลภาษาของโปรแกรม](introduction-of-programming/02-intro-computer-translate.md)
-* [Flowchart](introduction-of-programming/03-intro-flowchart.md)
+* [Flowchart](introduction-of-programming/03-intro-algorithm.md)
 * [Preprocesser Directory](introduction-of-programming/04-intro-preprocesser-directory.md)
-* [Data type](introduction-of-programming/05-intro-data-type.md)
-* [Condition & Loop Statement](introduction-of-programming/06-intro-condition-and-loop-statement.md)
+* [Basic Coding](introduction-of-programming/05-intro-basic-coding.md)
 
 ## 🐍 Python for Beginner
 

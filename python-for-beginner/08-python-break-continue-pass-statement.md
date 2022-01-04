@@ -8,7 +8,7 @@
 
 ตัวอย่าง
 
-```
+```python
 # check order
 if (order == 0):
   break

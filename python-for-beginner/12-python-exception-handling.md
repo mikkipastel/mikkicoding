@@ -20,7 +20,7 @@
 
 การจัดการเมื่อโค้ดของเรามีปัญหา มี syntax การเขียน ดังนี้
 
-```
+```python
 try:
    // Protected code
 except:
@@ -35,13 +35,13 @@ else:
 
 ถ้าเปรียบเทียบกับ JAVA เหมือน throw
 
-```
+```python
 raise ValueError('A very specific bad thing happened')
 ```
 
 ตัวอย่างการใช้งาน เช่น การหารด้วยศูนย์
 
-```
+```python
 try:
    result = input1 / input2
 except ZeroDivisionError:

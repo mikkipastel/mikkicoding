@@ -4,14 +4,14 @@
 
 * แบบทางเดียว
 
-```
+```python
 if (consition):
   <statement>
 ```
 
 * แบบสองทาง
 
-```
+```python
 if (consition):
   <statement>
 else:    
@@ -20,7 +20,7 @@ else:
 
 * แบบหลายทาง
 
-```
+```python
 if (condition):
   <statement>
 elif (condition):   
@@ -41,7 +41,7 @@ else:
 
 ให้ input มีชื่อตัวแปรว่า score และ output ชื่อว่า `grade`
 
-```
+```python
 # input student score
 score = 78
 

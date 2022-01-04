@@ -1,4 +1,15 @@
-# Condition & Loop Statement
+# Basic Coding
+
+## Data type
+
+ประเภทของตัวแปรในแต่ละภาษาจะมีคล้ายๆกัน เช่น
+- Number : ตัวเลขต่างๆ `int`, `float`, `double`, `long`
+- Char : ตัวอักษร
+- String : ตัวหนังสือ
+- Boolean : ส่วนใหญ่มีค่า true และ false เท่านั้น
+- List, ArrayList
+
+## Condition & Loop Statement
 
 การเขียนโปรแกรมหลักๆ
 
@@ -12,4 +23,4 @@ syntax ที่ใช้หลักๆ คือ if-else, switch-case
 
 เป็นการสั่งให้โปรแกรมทำงานคำสั่งเดิมซํ้าๆ ตามจำนวนรอบที่เราต้องการ เช่น การให้หุ่นยนต์วิ่งรอบสนาม
 
-syntax ที่ใช้หลักๆ คือ for, while, d-while
+syntax ที่ใช้หลักๆ คือ for, while, do-while
