@@ -22,7 +22,7 @@
 * [การใช้ break, continue และ pass ใน statement](python-for-beginner/08-python-break-continue-pass-statement.md)
 * [Function](python-for-beginner/09-python-function.md)
 * [Data structure](python-for-beginner/10-python-data-structure.md)
-* [การทำงานร่วมกันกับไฟล์](python-for-beginner/11-python-working-with-filemd)
+* [การทำงานร่วมกันกับไฟล์](python-for-beginner/11-python-working-with-file.md)
 * [Exception handling](python-for-beginner/12-python-exception-handling.md)
 * [Document และแหล่งเรียนรู้อื่นๆ](python-for-beginner/13-python-document.md)
 
