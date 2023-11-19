@@ -28,6 +28,7 @@
 
 ## 📑 Content
 
+* [Content Roadmap Rule](content/content-roadmap-rule.md)
 * [2022](content/2022.md)
 * [2023](content/2023/README.md)
   * [Content Roadmap Sprint 01/2023 (21 May - 2 June)](content/2023/content-roadmap-sprint-01-2023-21-may-2-june.md)
