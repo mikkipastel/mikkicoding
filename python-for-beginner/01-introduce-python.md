@@ -9,12 +9,6 @@ python เวอร์ชั่นปัจจุบัน คือ 3.6 (19 ม
 
 ความแตกต่างของ python 2.7 vs python 3.3 ถึงเวอร์ชั่นปัจจุบันจะเป็น python 3.x แต่มีบางโปรแกรมและบางหน่วยงานใช้ python 2.7 อยู่ ดังนั้นเราจะมาดูความแตกต่างกันระหว่าง 2 เวอร์ชั่นนี้
 
-|                   | python 2.7                     | python 3.x                      |
-| ----------------- | ------------------------------ | ------------------------------- |
-| Print             | `print “hello world”`          | `print (“hello world”)`         |
-| Integer Division  | 3/2 = 1                        | 3/2 = 1.5                       |
-| Input Value       | `raw_input()`                  | `input()`                       |
-| Stripline in File | `string.spilt(f.read(), “\n”)` | `f.read().strip().splitlines()` |
-| File Mode         | rb, wb, ab                     | r+, w+, a+                      |
+<table><thead><tr><th width="184.90899062327634"></th><th>python 2.7</th><th>python 3.x</th></tr></thead><tbody><tr><td>Print</td><td><code>print “hello world”</code></td><td><code>print (“hello world”)</code></td></tr><tr><td>Integer Division</td><td>3/2 = 1</td><td>3/2 = 1.5</td></tr><tr><td>Input Value</td><td><code>raw_input()</code></td><td><code>input()</code></td></tr><tr><td>Stripline in File</td><td><code>string.spilt(f.read(), “\n”)</code></td><td><code>f.read().strip().splitlines()</code></td></tr><tr><td>File Mode</td><td>rb, wb, ab</td><td>r+, w+, a+</td></tr></tbody></table>
 
 การเลือกใช้ python ขึ้นอยู่กับโปรแกรมที่รองรับ และปัจจัยอื่นๆ ที่นอกเหนือจากความใหม่ของเวอร์ชั่น
