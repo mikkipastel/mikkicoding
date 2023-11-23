@@ -1,6 +1,6 @@
 # Content Roadmap Sprint 04/2023 (3 - 14 July)
 
-<figure><img src="https://cdn.glitch.global/2a53279f-6b0b-496a-8c43-6bf257052e26/content_roadmap_2023_04.png?v=1688375577177" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://cdn.glitch.global/2a53279f-6b0b-496a-8c43-6bf257052e26/content_roadmap_2023_04.png?v=1688375577177" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Content List
 

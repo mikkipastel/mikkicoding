@@ -1,6 +1,6 @@
 # Content Roadmap Sprint 09/2023 (11 - 22 September)
 
-![Content Roadmap sprint 09/2023](https://cdn.glitch.global/2a53279f-6b0b-496a-8c43-6bf257052e26/content\_roadmap\_2023\_09.png?v=1694491033508)
+<figure><img src="https://cdn.glitch.global/2a53279f-6b0b-496a-8c43-6bf257052e26/content_roadmap_2023_09.png?v=1694491033508" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Content List
 

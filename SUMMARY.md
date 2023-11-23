@@ -26,6 +26,10 @@
 * [Exception handling](python-for-beginner/12-python-exception-handling.md)
 * [Document และแหล่งเรียนรู้อื่นๆ](python-for-beginner/13-python-document.md)
 
+## 💁♀ Android Developer Trip
+
+* [Android Logcat](android-developer-trip/android-logcat.md)
+
 ## 📑 Content
 
 * [Content Roadmap Rule](content/content-roadmap-rule.md)
@@ -40,6 +44,10 @@
   * [Content Roadmap Sprint 07/2023 (14 - 25 August)](content/2023/content-roadmap-sprint-07-2023-14-25-august.md)
   * [Content Roadmap Sprint 08/2023 (28 August - 8 September)](content/2023/content-roadmap-sprint-08-2023-28-august-8-september.md)
   * [Content Roadmap Sprint 09/2023 (11 - 22 September)](content/2023/content-roadmap-sprint-09-2023-11-22-september.md)
+  * [Content Roadmap Sprint 10/2023 (25 September - 6 October)](content/2023/content-roadmap-sprint-10-2023-25-september-6-october.md)
+  * [Content Roadmap Sprint 11/2023 (9 - 20 October)](content/2023/content-roadmap-sprint-11-2023-9-20-october.md)
+  * [Content Roadmap Sprint 12/2023 (6 - 17 November)](content/2023/content-roadmap-sprint-12-2023-6-17-november.md)
+  * [Content Roadmap Sprint 13/2023 (20 November - 1 December)](content/2023/content-roadmap-sprint-13-2023-20-november-1-december.md)
 
 ***
 
