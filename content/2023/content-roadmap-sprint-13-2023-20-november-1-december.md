@@ -12,6 +12,6 @@
 
 **Content ใน Sprint นี้**
 
-* อัพเดตข่าวสารอาชีพประจำปี กับงาน Android Bangkok Conference 2023: [Blog](https://www.mikkipastel.com/android-bangkok-conference-2023/) | Facebook | Twitter
-* Review course Skooldio
-* Beginner Trading from Bittoon Trading club
+* อัพเดตข่าวสารอาชีพประจำปี กับงาน Android Bangkok Conference 2023: [Blog](https://www.mikkipastel.com/android-bangkok-conference-2023/) | [Facebook](https://www.facebook.com/MikkiPastel/posts/pfbid02acstTdGxh2HpXhnuzvdEE9qg1Gb97PMiQhp7X4XsCcWsRENvCcfo5Kfg2qqFu2cml) | [Twitter](https://twitter.com/mikkipastel/status/1728020646863528316)
+* Review course Skooldio: [Blog](https://www.mikkipastel.com/review-skooldio-tech-course/) | [Facebook](https://www.facebook.com/MikkiPastel/posts/pfbid02Ai8VM6D9cPFjTFeJ9c4Pr7iHBR6FKq4HdWJAN9HdEBJdKDfoSWgjwtCNh3X5QhKSl) | [Twitter](https://twitter.com/mikkipastel/status/1729120859254927863)
+* Beginner Trading from Bittoon Trading club: [Blog](https://www.mikkipastel.com/beginner-trading-bittoon-trading-club/) | [Facebook](https://www.facebook.com/MikkiPastel/posts/pfbid02UEE5cmab5KfCe9jJiwZhx3oqiWAy34ghtdDfSJ5HJGFtCaPYQ8xeEdWCC4Q34Et3l) | [Twitter](https://twitter.com/mikkipastel/status/1730557358181425251)

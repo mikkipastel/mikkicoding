@@ -48,6 +48,11 @@
   * [Content Roadmap Sprint 11/2023 (9 - 20 October)](content/2023/content-roadmap-sprint-11-2023-9-20-october.md)
   * [Content Roadmap Sprint 12/2023 (6 - 17 November)](content/2023/content-roadmap-sprint-12-2023-6-17-november.md)
   * [Content Roadmap Sprint 13/2023 (20 November - 1 December)](content/2023/content-roadmap-sprint-13-2023-20-november-1-december.md)
+  * [Content Roadmap Sprint 14/2023 (6 - 22 December)](content/2023/content-roadmap-sprint-14-2023-6-22-december.md)
+
+## 👩🏫 portfoliio
+
+* [Public Speaking](portfoliio/public-speaking.md)
 
 ***
 

@@ -1,6 +1,6 @@
 # Android Logcat
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Logcat บน Android Stuio ถูกเปลี่ยนหน้าตาไปในเวอร์ชั่น Dolphin | 2021.3.1 ซึ่งสามารถสร้างได้หลาย ๆ logcat windows ด้วยกันเนอะ
 

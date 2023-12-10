@@ -1,6 +1,6 @@
 # Content Roadmap Sprint 10/2023 (25 September - 6 October)
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="395"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="395"><figcaption></figcaption></figure>
 
 เขียนว่าทำบล็อก Compose Camp จนกว่าจะเสร็จจ้า ตอนนี้เหลือแค่เรียงของนิดหน่อย อาจจะไม่ละเอียดมากน้าทุกคน มันผ่านไปหลายเดือนแล้ว
 

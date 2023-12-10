@@ -140,4 +140,18 @@ description: content release on 2023 at my website, my YouTube, and my site proj
 **📖 Blog**
 
 * [มาอัพเดตเทคกับงาน DevFest Bangkok 2023](https://www.mikkipastel.com/devfest-bangkok-2023/)
+* [อัพเดตข่าวสารอาชีพประจำปี กับงาน Android Bangkok Conference 2023](https://www.mikkipastel.com/android-bangkok-conference-2023/)
+* [รีวิวคอร์สสาย Tech ที่เราเรียน](https://www.mikkipastel.com/review-skooldio-tech-course/)
+
+## December
+
+**📖 Blog**
+
+* [มาเรียนรู้การเทรดเบื้องต้น กับ Bittoon Trading Club](https://www.mikkipastel.com/beginner-trading-bittoon-trading-club/)
+
+**🏕 Activity**
+
+15 Dec. Women in Tech: Power Hour Dinner
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
 
