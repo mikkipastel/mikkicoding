@@ -124,7 +124,7 @@ I am a guess in GuCode S2 EP.18 Chatbot with DialogFlow which tells about begin 
 
 ### 2017
 
-### Kotlin Meetup 1.2
+#### Kotlin Meetup 1.2
 
 <figure><img src="https://mikkipastel.web.app/image/activity/kotlin-meetup-1.2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
