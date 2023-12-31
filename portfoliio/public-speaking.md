@@ -2,6 +2,14 @@
 
 ### 2023
 
+#### Women in Tech: Power Hour Dinner
+
+talk about personal branding from my experience
+
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
+
 #### Create website without code in Bittoon DAO community.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>

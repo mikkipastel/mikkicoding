@@ -23,7 +23,7 @@ description: content release on 2023 at my website, my YouTube, and my site proj
 
 * 25 January: Create website without code in Bittoon DAO community.
 
-<figure><img src="https://github.com/mikkipastel/brag-document/raw/main/2023/activity_bittoon_dao.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## February
 
@@ -72,11 +72,11 @@ description: content release on 2023 at my website, my YouTube, and my site proj
 
 * 11 May: [💖MOD นักสร้างคอมเทนท์ กับ น้องมิ้น | #Modนี้มีแต่ให้ EP 15](https://www.youtube.com/watch?v=Un4PE8qB0hc)
 
-<figure><img src="https://github.com/mikkipastel/brag-document/raw/main/2023/activity_modnee_ep15.jpeg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * 18 May: [💖เรียนรู้จากโปร วิธีการทำ Contribution | #Modนี้มีแต่ให้ EP 16](https://twitter.com/CryptoSaiV2/status/1659179935578357760)
 
-<figure><img src="https://github.com/mikkipastel/brag-document/raw/main/2023/activity_modnee_ep16.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## June
 
