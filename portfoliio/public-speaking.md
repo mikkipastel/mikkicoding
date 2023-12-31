@@ -20,13 +20,13 @@
 
 #### **Android Bangkok 2022**
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 I came back for a speaker in Android Bangkok again with "Level up with Android Library for Android Developer" session
 
 #### **Hacktoberfest Thailand 2022**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 I sent call to paper to contribute to my session "How to contribute tech community with your blog" for this event.
 
