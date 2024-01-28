@@ -33,7 +33,9 @@
 ## 📑 Content
 
 * [Content Roadmap Rule](content/content-roadmap-rule.md)
-* [2022](content/2022.md)
+* [2024](content/2024/README.md)
+  * [Content Roadmap Sprint 01/2024 (15 - 26 January)](content/2024/content-roadmap-sprint-01-2024-15-26-january.md)
+  * [Content Roadmap Sprint 02/2024 (29 January - 9 February)](content/2024/content-roadmap-sprint-02-2024-29-january-9-february.md)
 * [2023](content/2023/README.md)
   * [Content Roadmap Sprint 01/2023 (21 May - 2 June)](content/2023/content-roadmap-sprint-01-2023-21-may-2-june.md)
   * [Content Roadmap Sprint 02/2023 (5 - 16 June)](content/2023/content-roadmap-sprint-02-2023-5-16-june.md)
@@ -49,15 +51,8 @@
   * [Content Roadmap Sprint 12/2023 (6 - 17 November)](content/2023/content-roadmap-sprint-12-2023-6-17-november.md)
   * [Content Roadmap Sprint 13/2023 (20 November - 1 December)](content/2023/content-roadmap-sprint-13-2023-20-november-1-december.md)
   * [Content Roadmap Sprint 14/2023 (6 - 22 December)](content/2023/content-roadmap-sprint-14-2023-6-22-december.md)
+* [2022](content/2022.md)
 
 ## 👩🏫 portfoliio
 
 * [Public Speaking](portfoliio/public-speaking.md)
-
-***
-
-* [Website](https://www.mikkipastel.com)
-* [Github](https://github.com/mikkipastel)
-* [Facebook Page](https://www.facebook.com/MikkiPastel/)
-* [Twitter](https://twitter.com/mikkipastel)
-* [Youtube](https://www.youtube.com/channel/UCtGbMSe4i7NJiKQ271Fezcg)
