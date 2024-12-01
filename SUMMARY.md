@@ -2,7 +2,7 @@
 
 * [Welcome!](README.md)
 
-## 👩🏫 👩‍💻 Introduction of Programming
+## 👩‍🏫 👩‍💻 Introduction of Programming
 
 * [การทำงานของคอมพิวเตอร์เบื้องต้น](introduction-of-programming/01-intro-basic-of-computer-working.md)
 * [การแปลภาษาของโปรแกรม](introduction-of-programming/02-intro-computer-translate.md)
@@ -26,7 +26,7 @@
 * [Exception handling](python-for-beginner/12-python-exception-handling.md)
 * [Document และแหล่งเรียนรู้อื่นๆ](python-for-beginner/13-python-document.md)
 
-## 💁♀ Android Developer Trip
+## 💁‍♀️ Android Developer Trip
 
 * [Android Logcat](android-developer-trip/android-logcat.md)
 
@@ -53,6 +53,6 @@
   * [Content Roadmap Sprint 14/2023 (6 - 22 December)](content/2023/content-roadmap-sprint-14-2023-6-22-december.md)
 * [2022](content/2022.md)
 
-## 👩🏫 portfoliio
+## 👩‍🏫 portfoliio
 
 * [Public Speaking](portfoliio/public-speaking.md)
