@@ -26,6 +26,21 @@
 * [Exception handling](python-for-beginner/12-python-exception-handling.md)
 * [Document และแหล่งเรียนรู้อื่นๆ](python-for-beginner/13-python-document.md)
 
+## 🤖 Discord Bot Hands-on
+
+* [Introduction](discord-bot-hands-on/introduction.md)
+* [Discord Bot & Example](discord-bot-hands-on/discord-bot-and-example.md)
+* [Create Your First Discord Bot](discord-bot-hands-on/create-your-first-discord-bot/README.md)
+  * [Create Your Discord Server](discord-bot-hands-on/create-your-first-discord-bot/create-your-discord-server.md)
+  * [Create Discord Bot Account](discord-bot-hands-on/create-your-first-discord-bot/create-discord-bot-account.md)
+  * [Bring Discord Bot to Server](discord-bot-hands-on/create-your-first-discord-bot/bring-discord-bot-to-server.md)
+* [Workshop](discord-bot-hands-on/workshop/README.md)
+  * [Create First Slash Command](discord-bot-hands-on/workshop/create-first-slash-command.md)
+  * [Create Slash Command with Parameter](discord-bot-hands-on/workshop/create-slash-command-with-parameter.md)
+  * [Return Embeds and Button](discord-bot-hands-on/workshop/return-embeds-and-button.md)
+  * [Webhook](discord-bot-hands-on/workshop/webhook.md)
+* [Reference](discord-bot-hands-on/reference.md)
+
 ## 💁‍♀️ Android Developer Trip
 
 * [Android Logcat](android-developer-trip/android-logcat.md)
