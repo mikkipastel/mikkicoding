@@ -41,9 +41,9 @@
   * [Webhook](discord-bot-hands-on/workshop/webhook.md)
 * [Reference](discord-bot-hands-on/reference.md)
 
-## 💁‍♀️ Android Developer Trip
+## 💁‍♀️ Android Developer Tips
 
-* [Android Logcat](android-developer-trip/android-logcat.md)
+* [Android Logcat](android-developer-tips/android-logcat.md)
 
 ## 📑 Content
 
